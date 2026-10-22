@@ -1,0 +1,1 @@
+<resources><string name="service_description">Runs only explicitly armed assistant-route countdown tests. Does not read screen content or perform taps. Disable this service after testing.</string></resources>
